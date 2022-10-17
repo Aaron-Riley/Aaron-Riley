@@ -1,5 +1,5 @@
 # Hi, I’m @Aaron-Riley 👋
-  - 👀 I’m interested in ...
+  - 👀 I’m interested in travelling
   - 🌱 I’m currently learning React & Node.js
   - 💞️ I’m looking to collaborate on React projects to sharpen and improve my skills
   - 📫 I can be reached via my LinkedIn below
