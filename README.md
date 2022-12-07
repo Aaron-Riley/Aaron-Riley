@@ -42,5 +42,5 @@ You can click the Preview link to take a look at your changes.
 ## Stats📈 
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aaron-Riley&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Aaron-Riley" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aaron-Riley&show_icons=true&theme=tokyonight&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Aaron-Riley" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aaron-Riley&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Aaron-Riley" /> 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaron-Riley&theme=highcontrast&hide_border=true" alt="Aaron-Riley" /> </p>
