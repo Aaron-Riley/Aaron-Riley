@@ -1,46 +1,17 @@
-# Hi, I’m @Aaron-Riley 👋
-  - 👀 I’m interested in travelling
-  - 🌱 I’m currently learning React & Node.js
-  - 💞️ I’m looking to collaborate on React projects to sharpen and improve my skills
-  - 📫 I can be reached via my LinkedIn below
+# 💫 About Me:
+🔭 I’m currently working on building an AWS CMS system<br>👯 I’m looking to collaborate on Javascript projects<br>🤝 I’m looking for help with Next.js & Node.js<br>🌱 I’m currently learning AWS and working on my certifications<br>💬 Ask me about how I want to improve the digital world and help people<br>⚡ Fun fact I used to be a chef but now I'm following my dream career
 
-<!---
-Aaron-Riley/Aaron-Riley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## 🔧 Technologies & Tools
-<p>
-  <a href="https://learn.microsoft.com/en-us/windows/">
-        <img src="https://img.shields.io/badge/Os-Windows-informational?style=flat&logo=windows&logoColor=white"
-            alt="Check out Windows"></a>  
-    <a href="https://code.visualstudio.com/docs">
-        <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white"
-            alt="Check out VS Code Docs"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white"
-            alt="Check out Javascript Docs"></a>
-   <a href="https://sass-lang.com/documentation/">
-        <img src="https://img.shields.io/badge/Code-Scss-informational?style=flat&logo=sass&logoColor=white"
-            alt="Check out Sass Docs"></a>
-     <a href="https://www.php.net/manual/en/">
-        <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white"
-            alt="Check out PHP Docs"></a>
-     <a href="https://dev.mysql.com/doc/">
-        <img src="https://img.shields.io/badge/Tools-MYSQL-informational?style=flat&logo=MYSQL&logoColor=white"
-            alt="Check out mySQL Docs"></a>
-   <a href="https://www.figma.com/">
-        <img src="https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=white"
-            alt="Check out Figma"></a>
-   <a href="https://www.linkedin.com/in/aaron-riley-b2b686178/">
-        <img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white"
-            alt="reach me on LinkedIn"></a>
-     <a href="https://docs.aws.amazon.com/">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label="
-            alt="Check out AWS Docs"></a>
-<p/>
-  
-## Stats📈 
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aaron-Riley&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Aaron-Riley" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aaron-Riley&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Aaron-Riley" /> 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaron-Riley&theme=highcontrast&hide_border=true" alt="Aaron-Riley" /> </p>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaronrileyy_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaron-riley-b2b686178) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aaronriley_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@ARileyDev) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aaron-riley&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aaron-riley&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-riley&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=@ARileyDev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
