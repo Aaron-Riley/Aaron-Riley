@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building an AWS headless CMS<br>👯 I’m looking to collaborate on Javascript projects<br>🤝 I’m looking for help with Next.js & Node.js<br>🌱 I’m currently learning AWS and working on my certifications<br>💬 Ask me about how I want to improve the digital world and help people<br>⚡ Fun fact I used to be a chef but now I'm following my dream career
+🔭 I’m currently working on building an AWS CMS<br>👯 I’m looking to collaborate on Javascript projects<br>🤝 I’m looking for help with Next.js & Node.js<br>🌱 I’m currently learning AWS and working on my certifications<br>💬 Ask me about how I want to improve the digital world and help people<br>⚡ Fun fact I used to be a chef but now I'm following my dream career
 
 
 ## 🌐 Socials:
