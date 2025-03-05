@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building solutions for insurance and tech<br>👯 I’m looking to collaborate on React/Node.js/NextJS open-source projects<br>🤝 I’m looking for help with AWS<br>🌱 I’m currently learn ing AWS and working on my certifications<br>💬 Ask me about how I want to improve the digital world and help people<br>⚡ Fun fact I used to be a chef but now I'm following my dream career
+🔭 I’m currently working on building solutions for insurance and tech<br>👯 I’m looking to collaborate on React/Node.js/NextJS open-source projects<br>🤝 I’m looking for help with AWS Lambda<br>🌱 I’m currently learn ing AWS and working on my certifications<br>💬 Ask me about how I want to improve the digital world and help people<br>⚡ Fun fact I used to be a chef but now I'm following my dream career
 
 
 ## 🌐 Socials:
