@@ -1,5 +1,5 @@
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGhyMXhxaW55cnlnZjN5bHNxbDE1enhtc2MwNHJlNDcwanphYWdwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vlu8L5Y7slTdzxwksX/giphy.gif" alt="Coding GIF" width="480" height="200">
+<img src="https://github.com/Aaron-Riley/Aaron-Riley/blob/main/hero.gif" alt="Coding GIF" width="500vw" height="500vh">
 
 # 💫 About Me:
 🔭 I’m currently working on building solutions for insurance and tech<br>👯 I’m looking to collaborate on React/Node.js/NextJS open-source projects<br>🤝 I’m looking for help with AWS Lambda<br>🌱 I’m currently learn ing AWS and working on my certifications<br>💬 Ask me about how I want to improve the digital world and help people<br>⚡ Fun fact I used to be a chef but now I'm following my dream career
