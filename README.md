@@ -5,7 +5,7 @@
 # 💫 About Me:
 🔭 **Currently working on** innovative solutions in the insurance sector, leveraging tech to solve real-world problems.  
 👯 **Looking to collaborate on** React, Node.js, or NextJS projects that push boundaries.  
-🤝 **Seeking help with** AWS Lambda—let’s conquer the cloud together!  
+🤝 **Seeking help with** AWS Lambda!  
 🌱 **Currently learning** AWS and chasing certifications to level up my skills. 
 
 ## 🌐 Socials
@@ -32,9 +32,8 @@
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-riley&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=aaron-riley&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aaron-riley&theme=tokyonight&hide_border=true)<br/>
-
-## 🤝 Let's Collaborate
-I’m excited to team up on React, Node.js, or NextJS projects. Got an idea or need a hand? Reach out!
+![Aaron-Riley's Stats](https://github-readme-stats.vercel.app/api?username=Aaron-Riley&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Aaron-Riley's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aaron-Riley&theme=tokyonight&hide_border=true)
+![Aaron-Riley's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Riley&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+ ## 🤝 Let's Collaborate
+I’m looking to team up on React, Node.js, or NextJS projects. Got an idea or need a hand? Reach out!
